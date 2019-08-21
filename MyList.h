@@ -1,5 +1,5 @@
 #pragma once
-
+// Gui edition
 typedef  char* DataType;
 
 struct node 
